@@ -33,7 +33,8 @@ Saat ini saya terus mengembangkan skill di bidang:
 ## 📌 Highlight Projects
 - 🔹 **[Recruitment System (AHP + Profile Matching)](https://github.com/Ivunnn/Sistem-Rekrutmen-Pegawai-AHP-Profile-Matching)** – **Sistem Pendukung Keputusan Rekrutmen Pegawai dengan metode AHP & Profile Matching**  
 - 🔹 **[SIMPELKESOS](https://github.com/Ivunnn/SIMPELKESOS)** – **Sistem Informasi Pemetaan Langsung Kesejahteraan Sosial (SIG)**
-- 🔹 **[Batik Classification with CNN](#)** – **Klasifikasi citra batik Jawa dengan Convolutional Neural Network**
+- 🔹 **[Batik Classification with CNN](https://github.com/Ivunnn/Klasifikasi_Batik_Jawa_dengan_CNN)** – **Klasifikasi citra batik Jawa dengan Convolutional Neural Network**
+- 🔹 **[CycleTech](https://github.com/sasbeela/FinalPoject_CycleTech)** – Proyek Akhir Studi Independen Bersertifikat pada Rakamin Academy - **Web Edukasi Olah Sampah dengan Fitur Deteksi Jenis Sampah Menggunakan OCR**
 
 ---
 
