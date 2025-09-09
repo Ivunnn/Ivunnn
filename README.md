@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Ivan Herdianto  
+# 👋 Hai, I'm Ivan Herdianto  
 
-🎓 Mahasiswa Informatika di **UPN "Veteran" Jawa Timur**  
+🎓 Informatic Undergraduate student at **UPN "Veteran" Jawa Timur**  
 💻 Fullstack **Laravel Web Developer** | Passionate about Web Technologies  
-🌱 Antusias mengaplikasikan ilmu akademis ke dunia nyata & projek sosial  
+🌱 Enthusiastic about applying academic knowledge to real-world projects & social impact initiatives  
 
 ---
 
 ## 🌟 About Me
-Saya seorang **Fullstack Web Developer** dengan fokus pada **Laravel Ecosystem**.  
-Berpengalaman membangun aplikasi web mulai dari **Sistem Informasi**, **Sistem Pendukung Keputusan**, hingga **Aplikasi berbasis AI**.  
-Saat ini saya terus mengembangkan skill di bidang:  
+I am a **Fullstack Web Developer** specializing in the **Laravel Ecosystem**.  
+Experienced in building web applications ranging from **Information Systems**, **Decision Support Systems**, to **AI-based Applications**.  
+Currently, I am continuously improving my skills in:  
 - **Backend:** Laravel, REST API, MySQL  
-- **Frontend:** Blade, Tailwind CSS
+- **Frontend:** Blade, Tailwind CSS  
 - **Tools:** Git, Postman, Figma  
 
 ✨ *Coding for impact, learning by doing, and building for people.*  
@@ -31,10 +31,10 @@ Saat ini saya terus mengembangkan skill di bidang:
 ---
 
 ## 📌 Highlight Projects
-- 🔹 **[Recruitment System (AHP + Profile Matching)](https://github.com/Ivunnn/Sistem-Rekrutmen-Pegawai-AHP-Profile-Matching)** – **Sistem Pendukung Keputusan Rekrutmen Pegawai dengan metode AHP & Profile Matching**  
-- 🔹 **[SIMPELKESOS](https://github.com/Ivunnn/SIMPELKESOS)** – **Sistem Informasi Pemetaan Langsung Kesejahteraan Sosial (SIG)**
-- 🔹 **[Batik Classification with CNN](https://github.com/Ivunnn/Klasifikasi_Batik_Jawa_dengan_CNN)** – **Klasifikasi citra batik Jawa dengan Convolutional Neural Network**
-- 🔹 **[CycleTech](https://github.com/sasbeela/FinalPoject_CycleTech)** – Proyek Akhir Studi Independen Bersertifikat pada Rakamin Academy - **Web Edukasi Olah Sampah dengan Fitur Deteksi Jenis Sampah Menggunakan OCR**
+- 🔹 **[Recruitment System (AHP + Profile Matching)](https://github.com/Ivunnn/Sistem-Rekrutmen-Pegawai-AHP-Profile-Matching)** – **Employee Recruitment Decision Support System using AHP & Profile Matching methods**  
+- 🔹 **[SIMPELKESOS](https://github.com/Ivunnn/SIMPELKESOS)** – **Social Welfare Mapping Information System (GIS-based)**  
+- 🔹 **[Batik Classification with CNN](https://github.com/Ivunnn/Klasifikasi_Batik_Jawa_dengan_CNN)** – **Javanese Batik Image Classification using Convolutional Neural Network**  
+- 🔹 **[CycleTech](https://github.com/sasbeela/FinalPoject_CycleTech)** – Final Project of Rakamin Academy Independent Study Program – **Waste Management Education Web App with OCR-based Waste Type Detection**  
 
 ---
 
