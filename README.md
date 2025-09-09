@@ -31,14 +31,14 @@ Saat ini saya terus mengembangkan skill di bidang:
 ---
 
 ## 📌 Highlight Projects
-- 🔹 **[Recruitment System (AHP + Profile Matching)](#)** – **Sistem Pendukung Keputusan Rekrutmen Pegawai dengan metode AHP & Profile Matching**  
-- 🔹 **[SIMPELKESOS](#)** – **Sistem Informasi Pemetaan Langsung Kesejahteraan Sosial (SIG)**
+- 🔹 **[Recruitment System (AHP + Profile Matching)](https://github.com/Ivunnn/Sistem-Rekrutmen-Pegawai-AHP-Profile-Matching)** – **Sistem Pendukung Keputusan Rekrutmen Pegawai dengan metode AHP & Profile Matching**  
+- 🔹 **[SIMPELKESOS](https://github.com/Ivunnn/SIMPELKESOS)** – **Sistem Informasi Pemetaan Langsung Kesejahteraan Sosial (SIG)**
 - 🔹 **[Batik Classification with CNN](#)** – **Klasifikasi citra batik Jawa dengan Convolutional Neural Network**
 
 ---
 
 ## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-herdianto)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herdiantoivan45@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivunnn)  
 
