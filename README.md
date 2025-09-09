@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ivan Herdianto  
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 🎓 Mahasiswa Informatika di **UPN "Veteran" Jawa Timur**  
 💻 Fullstack **Laravel Web Developer** | Passionate about Web Technologies  
 🌱 Antusias mengaplikasikan ilmu akademis ke dunia nyata & projek sosial  
